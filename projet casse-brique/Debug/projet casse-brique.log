@@ -1,0 +1,8 @@
+﻿  balle.cpp
+D:\BACHELOR LUDUS\ALGO\git projet\projet-casse-brique-c--\projet casse-brique\balle.cpp(47,17): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+  bric.cpp
+  cVue.cpp
+  main.cpp
+  player.cpp
+  Génération de code en cours...
+  projet casse-brique.vcxproj -> D:\BACHELOR LUDUS\ALGO\git projet\projet-casse-brique-c--\projet casse-brique\Debug\projet casse-brique.exe
